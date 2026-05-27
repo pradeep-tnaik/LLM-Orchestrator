@@ -1,6 +1,4 @@
-git add README.md
-git commit -m "Add professional documentation README"
-git push origin master
+
 # 🤖 Multi-LLM AI Moderator Orchestrator
 
 A lightweight, asynchronous Python dashboard designed for rapid product R&D and strategic analysis. This tool allows users to query multiple foundational LLMs (ChatGPT and Claude) simultaneously and synthesize their unique perspective strengths into a single, cohesive Master Blueprint document.
